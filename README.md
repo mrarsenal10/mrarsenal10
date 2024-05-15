@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 My name is Tran Pham Tuan Anh
+---
+#### Full-stack developer
 
-<!--
-**mrarsenal10/mrarsenal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 9 years as a Full-stack Software Engineer, I excel in both front-end and back-end technologies. My expertise spans 4 years in modern front-end, 3 years in Node, and 7 years in PHP-related tech. I'm dedicated to continuous learning, staying current with new technologies and best practices. My proactive nature and adaptability contribute to enhancing web development practices and fostering innovation.
 
-Here are some ideas to get you started:
+### Skills 💪🏻
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50">
+</div
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm based in Vietnam
+- ✉️ You can contact me at anhtpt92@gmail.com
+- 🧠 Currently I'm learning go lang
+- 🤝 I'm open to collaborating on NodeJS and PHP-related projects.
